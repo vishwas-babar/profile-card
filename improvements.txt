@@ -1,0 +1,10 @@
+1. i can use box icons library for the icons
+
+
+2. found new shortcut - img.classname - it create the img element with classname
+
+3. use the flex box more often 
+
+4. dont forget to add the cursor property for buttons
+
+5. use the :last-child css selector
